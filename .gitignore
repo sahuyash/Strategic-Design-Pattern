@@ -1,0 +1,32 @@
+# Compiled class files
+*.class
+
+# JAR and WAR files
+*.jar
+*.war
+*.ear
+
+# Log files and temporary files
+logs/
+*.log
+*.out
+*.tmp
+
+# Maven target directory
+target/
+
+# IDE-specific files
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+*.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency caches
+.mvn/
+node_modules/
